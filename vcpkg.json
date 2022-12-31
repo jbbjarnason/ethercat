@@ -3,7 +3,8 @@
   "version-semver": "0.1.0",
   "dependencies": [
     "fmt",
-    "asio"
+    "asio",
+    "boost-crc"
   ],
   "builtin-baseline": "62d01b70df227850b728f5050418b917ad6d2b32"
 }
