@@ -10,4 +10,5 @@ find_package(Boost REQUIRED)
 target_link_libraries(ec_master PRIVATE fmt::fmt asio::asio Boost::boost)
 target_include_directories(ec_master PUBLIC include/public PRIVATE include)
 
-target_link_libraries(ec_master PRIVATE fmt::fmt asio::asio)
+# todo tests option
+add_subdirectory(tests)

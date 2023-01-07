@@ -1,0 +1,8 @@
+#ifndef ETHERCAT_ETHERTYPE_HPP
+#define ETHERCAT_ETHERTYPE_HPP
+
+#pragma once
+
+
+
+#endif //ETHERCAT_ETHERTYPE_HPP
